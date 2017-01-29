@@ -172,6 +172,6 @@ if 'y' or '' in showFolder:
 else:
     exit()
 
-print 'Entire process complete'
+print 'Entire process complete... woohoo!'
 exit()
 
