@@ -161,7 +161,6 @@ if args.skipOffline is False:
             print "Saving %s" % offlineFile
             f.write('\n'.join(ListOfofflineFiles))
     
-prettySep()
 #print "List of files - initial assessment:\n%s" % initialAssessmentFile
 
 print """Process complete. Do you wish to open the Folder with the list of files?
