@@ -172,5 +172,6 @@ if 'y' or '' in showFolder:
 else:
     exit()
 
+print 'Entire process complete'
 exit()
 
